@@ -1,6 +1,6 @@
 # -회원가입 화면(FXML)
 ## -luxury MemberShip
-![회원가입 화면](screenshot/회원가입 화면.png)
+![회원가입 화면](screenshot/회원가입화면.png)
 #### 회원가입 화면을 구성하였고 데이터 label을 다양하게 넣어보았습니다.
 
 ## -데이터 삽입
